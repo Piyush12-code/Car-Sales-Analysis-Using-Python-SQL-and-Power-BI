@@ -1,0 +1,2 @@
+# Car Sales Analysis Using Python, SQL, and Power BI
+Cleaned and analyzed car sales data using Python (Pandas, NumPy) to identify trends and improve data quality. Executed SQL queries to extract insights on sales performance, customer demographics, and regional patterns, and built interactive Power BI dashboards to visualize revenue, dealer performance, and sales trends for informed decision-making.
